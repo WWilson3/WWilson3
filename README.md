@@ -2,7 +2,7 @@
 
 
 - 👀 I’m interested in ...
-- Obtaining a summer internship/co-op program.
+- Getting remote computer science work so I can move to Oregon.
 - Domestic rat breeding. 
 - Scultping
 - Coding, of course!
