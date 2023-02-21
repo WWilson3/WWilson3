@@ -10,11 +10,12 @@
 - 🌱 I’m currently learning ...
 Computer science at University of the Pacific.
 
-- My languages:
+- My languages Include:
 - C
 - C++
 - Java
-- Currently studying Python and Lua
+- Lua
+- Currently studying Python
 
 - I'm currently developing Massacre Ball! (in Java) A point and click strategic murder mystery game wherein the player can play as either the killer or the detective. The game takes place in at an upscale mansion hosting a dinner party. Ten party guests are all locked within and informed that one of them is there to murder the rest! Massacre Ball currently contains functional AI that:
 - Has access to a list containing every goal in the game.
